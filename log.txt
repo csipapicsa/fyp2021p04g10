@@ -1,0 +1,478 @@
+commit a548e792aca6da5faae206512be6d4401fbd420e
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 13:35:12 2021 +0200
+
+    Final state of repo
+    
+    - Not used Jupyter notebook files were deleted
+
+commit 26374d9059c509dcb8f822ebe6758d72b96a05b5
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 13:30:41 2021 +0200
+
+    added last inter-annotater agreement cell
+
+commit c4b07184f4d6007a20ab743e65966323096b0fcc
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 13:11:36 2021 +0200
+
+    Figures added
+    
+    - Nothing special
+
+commit 487b4789db4270ab1436a09a5c2887efc43b4d5a
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 12:48:13 2021 +0200
+
+    Some useless files deleted
+    
+    - Our own Jupyter notebook files are still in the repo, I will delete them in the end of the process
+
+commit 8327db0e18fe1c5c73200eb25df63f1dcbaecb00
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 12:29:13 2021 +0200
+
+    added validation predictions
+
+commit d54fed93178cf29b71e176a7460879b60293fee9
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 12:04:17 2021 +0200
+
+    GOOD ONE
+
+commit 5e3add9ed07ea87e26f4c73df1a210e2ceba88dd
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 11:50:13 2021 +0200
+
+    Revert "changed some headers"
+    
+    This reverts commit 6f8b13a2aa71707a30b9776783b942857ea7a4d4.
+
+commit 89e457c9a78b21be4b389f34b7ccc5d63f2ce01f
+Merge: dfbc4d9 51aa108
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 11:45:01 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit dfbc4d9e2e35d1a4cba57bdd898f507077da9568
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 11:44:45 2021 +0200
+
+    changed headers
+
+commit 51aa10865777c58e5ae59dcb408b4d6be0032c9f
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 11:34:13 2021 +0200
+
+    Revert "Delete trial file.txt"
+    
+    This reverts commit 494f86d353a213c67487f308149e86a62eec9ca7.
+
+commit 494f86d353a213c67487f308149e86a62eec9ca7
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 11:34:00 2021 +0200
+
+    Delete trial file.txt
+
+commit e69d247066ce206e9781be9b636ee3b6a49c2adc
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 11:33:40 2021 +0200
+
+    trial
+
+commit f9ecc46f0bbbec66bde98ef638742de1290637d3
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 11:32:02 2021 +0200
+
+    Update README.md
+
+commit d32e348b367e3373614dd796473b921391d5a810
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 11:31:12 2021 +0200
+
+    Update README.md
+
+commit 1ef554a60109c19f1d8032d472c8fbb66da4a3b3
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 11:27:27 2021 +0200
+
+    Readme of the project
+
+commit 6f8b13a2aa71707a30b9776783b942857ea7a4d4
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 11:18:43 2021 +0200
+
+    changed some headers
+
+commit b8291d5e4cdd616e1c824cfd731f467a0edf385f
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Thu Jun 3 10:48:58 2021 +0200
+
+    Close
+
+commit 8035560569e0af129cd54b953b457ad03b2c6857
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 10:16:28 2021 +0200
+
+    removed cell output
+
+commit 87752b6eef15eeacb5efb808037a83a293e8e29d
+Merge: 48a248e d063fe4
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 10:15:16 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit 48a248e9878665056440d5705a6e90f4a4f9e251
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 10:14:26 2021 +0200
+
+    added inter-annotator agreement without annotator 3
+
+commit d063fe455d9892c9b1bd1b62b5e15e92c9da3834
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Thu Jun 3 09:56:05 2021 +0200
+
+    Update Frederik.ipynb
+
+commit e6f0e2f441fc7983b1c22020b10a2ac49c61021c
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu Jun 3 09:17:39 2021 +0200
+
+    added classifiers to final report
+
+commit e90bed2c9b8d606d45d6ad4aab7cc02ecfdf7b0c
+Merge: 4121dde 552e1fb
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Thu Jun 3 00:50:22 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit 4121dde2881fc003c11cc7242f61c3ae4da2a6e4
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Thu Jun 3 00:50:14 2021 +0200
+
+    a4
+
+commit 552e1fb8d28707235a4d80a7cb9afbc1760fae28
+Author: Jeppe L <jlum@itu.dk>
+Date:   Wed Jun 2 23:47:17 2021 +0200
+
+    Added multiple classifications for both offensive and sentiment tasks
+
+commit 4f561d0fc3596d5cd466675a30665a131db79e63
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Wed Jun 2 17:11:30 2021 +0200
+
+    Final Report
+    
+    - minor fixes
+
+commit dbbb6810ed3ff23b93a2502adb9b18ba1338dc77
+Merge: 6c2dbd2 e8723b2
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Wed Jun 2 16:44:27 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit 6c2dbd27b3b23528f8b8f6cca953fd674e33fced
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Wed Jun 2 16:44:21 2021 +0200
+
+    A4
+
+commit e8723b23249f7643340f97df9527b8da2de76566
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Wed Jun 2 16:37:35 2021 +0200
+
+    tokenizer updated
+    
+    - it gives back better values now
+
+commit 21c478d8e0f05051db3420a2e2dcb466bd74d7d7
+Merge: cb81ad1 5a198d7
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Wed Jun 2 15:20:47 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit cb81ad162881fa6c85b37547ef1a06798375e99d
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Wed Jun 2 15:20:38 2021 +0200
+
+    A4
+
+commit 5a198d7563169c6c2a3f8d863018f6b0accd0bf4
+Author: Jeppe L <jlum@itu.dk>
+Date:   Wed Jun 2 15:20:11 2021 +0200
+
+    started classification Task
+
+commit fea3762dcf65fae7b23e9e82c7c9cab90aaaaff5
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Wed Jun 2 09:51:49 2021 +0200
+
+    3 and 4
+
+commit 6fe0944180b3794f5ade4d2843b6baa0590c3011
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Jun 1 21:21:29 2021 +0200
+
+    tokenizer updated
+    
+    however with a clear dataset it produces worst values during the ratings
+
+commit ff3019db807fb11b9a041f236119078eb8940290
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Jun 1 17:44:33 2021 +0200
+
+    Final report update
+    
+    - Mainly based on the tokenizer_final file
+    - Observed Agreement calulated and reported of the manual annotation
+
+commit 5b27bc457005f4f7a76e4e136b00a91fa1ac2065
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue Jun 1 12:47:07 2021 +0200
+
+    updated token count from tokenizer, now correctly displays top tokens
+
+commit 48199be4158ca8261430cbf40335f77f88b4de01
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu May 13 14:10:43 2021 +0200
+
+    added inter-annotator agreement between all combinations of annotators, true labels included
+
+commit e0816af5e19e4054abe025423e8920a21d9eb761
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu May 13 13:48:07 2021 +0200
+
+    updated tweet agree&disagree txt files
+
+commit 4834c5f71f1c11f2f09aa069492771eca7425e92
+Author: Jeppe L <jlum@itu.dk>
+Date:   Thu May 13 13:45:41 2021 +0200
+
+    fixed 'true label' indexing for inter-user agreement
+
+commit cca673d4b7d78730a2c51370d28361ce75ebaef9
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue May 11 19:59:36 2021 +0200
+
+    TOKENIZER updated
+    
+    - its find now the "real words" and the mess ("....", emoji, etc)
+
+commit 9f48fa06889a156d25937ce716a3ca39b81c8a3f
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue May 11 16:19:13 2021 +0200
+
+    Ao value added to the all_combined.csv
+
+commit 50c554b2f3e06a3f15bd38aefaae9c60ba1b1d7e
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue May 11 14:05:30 2021 +0200
+
+    added csv file with all manual annotations combined, files on what tweets annotations agree/disagree on
+
+commit bf3bef3f1e53915180c4c00dab00781f89f06628
+Merge: 9ea4be5 8b063fd
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue May 11 11:55:26 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit 9ea4be5616748e35b778ae1f98f667c8acffc84c
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue May 11 11:55:13 2021 +0200
+
+    anno
+
+commit 8b063fd0b28cd9c4d1cdcfa71ede78f835831db2
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Mon May 10 21:23:08 2021 +0200
+
+    Manual annotation
+    
+    - Positive, Negative, Neutral
+    - I also added a "Sarcasm or Irony" file, but I dont think it could be useful
+
+commit 39a27833c9f16bbe1ac07834b524ded96a8127dc
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Mon May 10 18:01:14 2021 +0200
+
+    mann annotation
+
+commit 3430d601c45d7e9bbd3244df9dfe4b9762dbdd04
+Author: Jeppe L <jlum@itu.dk>
+Date:   Mon May 10 17:33:04 2021 +0200
+
+    added file with the tweets that have different manually annotated labels
+
+commit 5ca247838e2b4c2ecaf63bba8b5f9ac3f5eac133
+Author: Jeppe L <jlum@itu.dk>
+Date:   Mon May 10 13:26:33 2021 +0200
+
+    added code to calculate chance-corrected agreement when given manually annotated data
+
+commit 597f208e9e0ba4ffab0319b99262755d14938a93
+Author: shakirmshaker <56033197+shakirmshaker@users.noreply.github.com>
+Date:   Mon May 10 02:07:15 2021 +0100
+
+    Add files via upload
+
+commit 56e6ea5cbc90a087b4af6fc6e540a70265c3f88e
+Author: Jeppe L <jlum@itu.dk>
+Date:   Sun May 9 23:21:07 2021 +0200
+
+    commented out file generating code, started code for task 3
+
+commit 7919dd3879a6b1055bf41c3ecd4c7d1f282f05d5
+Author: Jeppe L <jlum@itu.dk>
+Date:   Sun May 9 23:19:31 2021 +0200
+
+    reran file generation for good measure
+
+commit c665bafe646bd2121bef7a7168376cf8fefbd4d9
+Author: Jeppe L <jlum@itu.dk>
+Date:   Sun May 9 23:01:40 2021 +0200
+
+    fixed number of tweets, is now correctly 100 again
+
+commit 3a776716b6900d4878dc8811f2fe48989c120833
+Author: Jeppe L <jlum@itu.dk>
+Date:   Sun May 9 22:55:33 2021 +0200
+
+    added folder for manual annotation files
+
+commit 527194af22e1d2f9b17e780ea79a708bd2df1a2d
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Sun May 9 19:50:33 2021 +0200
+
+    ex 2-3
+
+commit 4d29d4e37fe77d598d40756e62a73f97370e13dc
+Merge: 6b7a7f3 45e437e
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Sun May 9 13:45:35 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit 6b7a7f3100cb31b75468d701c2cae0649d257806
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Sun May 9 13:45:26 2021 +0200
+
+    Update news-commentary-v16.en
+
+commit 45e437eedf5e8cf602c7fd79b6f57ad0976cfe1f
+Author: Jeppe L <jlum@itu.dk>
+Date:   Fri May 7 00:18:44 2021 +0200
+
+    made exercise2 & plots in Tokenizer_test, uploaded 100 random tweets from sentiment in data/interim
+
+commit 4d77572281c7eb31c48bc840f5b78d5e522af57d
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue May 4 16:43:59 2021 +0200
+
+    news commentary dataset
+
+commit c1de0f48a669851de8dbf6ee93fe65cdb9888e6b
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue May 4 16:34:36 2021 +0200
+
+    made Tokenizer as function
+
+commit ebec1bb75beb3ffa2cda72589ac5561752239250
+Author: Jeppe L <jlum@itu.dk>
+Date:   Mon May 3 19:47:54 2021 +0200
+
+    made changes to tokenizer
+
+commit 8eb4bef29bd1017d3596c23a667a13b6ee281a8e
+Merge: 8a103b0 637319a
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue Apr 27 17:54:20 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit 8a103b025554fee525c442aece61c47785e4087d
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue Apr 27 17:54:13 2021 +0200
+
+    tokens
+
+commit 637319a114285cf6a40451bb0d5ed120420b0dc5
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Apr 27 17:43:15 2021 +0200
+
+    TweetEval Tutorial runned, comments added to the code
+
+commit 2f40253d3bd9eed8b2921889526efd16c00c56af
+Merge: 1c633a3 26f635c
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue Apr 27 17:28:27 2021 +0200
+
+    Merge branch 'main' of https://github.com/csipapicsa/fyp2021p04g10 into main
+
+commit 1c633a3b38403048d6530b9f822c49b1956343fb
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue Apr 27 17:28:20 2021 +0200
+
+    tokenizer
+    
+    tokenizer
+
+commit 26f635c4c8b424257558d5879ca38a9cac79a83e
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue Apr 27 17:27:22 2021 +0200
+
+    added Tokenizer_test notebook
+
+commit a799275b02f9b7013ea74ecad7456723b013fcdb
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Apr 27 16:36:38 2021 +0200
+
+    external dataset copy
+
+commit e58c178e1b28ba3589323712e93bcd7ee66b7d5b
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Apr 27 16:21:06 2021 +0200
+
+    L1 files
+
+commit 7416417ff2c8c8fff6bb88dccded18ad8b7ce394
+Author: csipapicsa <gergo.gyori@gmail.com>
+Date:   Tue Apr 27 16:17:25 2021 +0200
+
+    Create test.txt
+
+commit 1026a01b8cf3289d48e54276d3d6cc875fb987d8
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue Apr 27 14:12:52 2021 +0200
+
+    added all data files
+
+commit 3f1be102588477594286fcd6f3d43e51f5e4b845
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue Apr 27 14:08:46 2021 +0200
+
+    added folder structure
+
+commit 43ef2851d6308872924415c9dba77f44a7285a7e
+Author: Jeppe L <jlum@itu.dk>
+Date:   Tue Apr 27 14:05:21 2021 +0200
+
+    added folder structure
+
+commit 01bc5a7fd28aff5c80766dba6756fd0b6840d18d
+Author: frederikfischlein <71254941+frederikfischlein@users.noreply.github.com>
+Date:   Tue Apr 27 13:30:37 2021 +0200
+
+    Added files
+
+commit d8c26b2fc9e7500f3f0e1e33630a3bf8b2877e79
+Author: Gergo Gyori <gergo.gyori@gmail.com>
+Date:   Tue Apr 27 12:54:51 2021 +0200
+
+    Initial commit
