@@ -12,6 +12,7 @@ For the project, we used Python and Jupyter notebook.
 ## Data
 The used dataset is provided by Christian Hardmeier.
 
+## Participants:
 - frfi@itu.dk
 - gegy@itu.dk
 - jlum@itu.dk
