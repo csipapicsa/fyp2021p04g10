@@ -7,14 +7,12 @@ Prediction of sentimental and offensive language by analyises of tweets
 Prediction of sentimental and offensive language by analyises of tweets 
 
 ## Code of the project
-For the project we used Python, and jupyter notebook.
+For the project, we used Python and Jupyter notebook.
 
 ## Data
-We used the given example dataset for the research by Christian Hardmeier.
+The used dataset is provided by Christian Hardmeier.
 
-## Paricipians:
-
-frfi@itu.dk
-gegy@itu.dk
-jlum@itu.dk
-shsh@itu.dk
+- frfi@itu.dk
+- gegy@itu.dk
+- jlum@itu.dk
+- shsh@itu.dk
